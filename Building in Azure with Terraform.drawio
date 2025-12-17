@@ -166,6 +166,18 @@
         <mxCell id="jk-H1ryV7F7as-7-eTrR-28" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VPN_Gateway.svg;" parent="jk-H1ryV7F7as-7-eTrR-25" vertex="1">
           <mxGeometry x="480" y="165" width="45" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BiRAhCYZHCX-tSur0gtt-6" value="Default Route" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Route_Tables.svg;" vertex="1" parent="jk-H1ryV7F7as-7-eTrR-25">
+          <mxGeometry x="320.39" y="520" width="51.61" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BiRAhCYZHCX-tSur0gtt-7" value="Default Route" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Route_Tables.svg;" vertex="1" parent="jk-H1ryV7F7as-7-eTrR-25">
+          <mxGeometry x="320.39" y="680" width="51.61" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BiRAhCYZHCX-tSur0gtt-8" value="Default Route" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Route_Tables.svg;" vertex="1" parent="jk-H1ryV7F7as-7-eTrR-25">
+          <mxGeometry x="460" y="525" width="51.61" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BiRAhCYZHCX-tSur0gtt-9" value="Default Route" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Route_Tables.svg;" vertex="1" parent="jk-H1ryV7F7as-7-eTrR-25">
+          <mxGeometry x="460" y="680" width="51.61" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
