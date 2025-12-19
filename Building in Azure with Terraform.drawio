@@ -104,7 +104,7 @@
         <mxCell id="-oR3Nw7zFfZe389PjCPj-87" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Subnet.svg;" parent="-oR3Nw7zFfZe389PjCPj-57" vertex="1">
           <mxGeometry x="524.9" y="700" width="50.1" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-oR3Nw7zFfZe389PjCPj-90" value="&lt;div&gt;BE&lt;/div&gt;&lt;div&gt;10.100.0.0/24&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="-oR3Nw7zFfZe389PjCPj-57" vertex="1">
+        <mxCell id="-oR3Nw7zFfZe389PjCPj-90" value="&lt;div&gt;BE&lt;/div&gt;&lt;div&gt;10.100.1.0/24&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="-oR3Nw7zFfZe389PjCPj-57" vertex="1">
           <mxGeometry x="590" y="700" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jk-H1ryV7F7as-7-eTrR-10" value="compute" parent="0" />
